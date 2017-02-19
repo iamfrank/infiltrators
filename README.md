@@ -3,4 +3,4 @@
 A print-and-play board game about infiltrating compounds and escaping with secrets
 
 * [Read the rules](rules/rules.md)
-* [Print the boards](boards/)
+* Print the [boards](boards/), and the [character figures](characters/characters_type4.svg)
