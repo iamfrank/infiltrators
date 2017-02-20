@@ -3,4 +3,8 @@
 A print-and-play board game about infiltrating compounds and escaping with secrets
 
 * [Read the rules](rules/rules.md)
-* Print the [boards](boards/), and the [character figures](characters/characters_type4.svg)
+* [Print the assets](printouts)
+* Start playing
+* Notify me if it's any fun
+
+Developed by @iamfrank
