@@ -7,4 +7,4 @@ A print-and-play board game about infiltrating compounds and escaping with secre
 * Start playing
 * Notify me if it's any fun
 
-Developed by @iamfrank
+Developed by [Frank Thomsen](https://github.com/iamfrank)
