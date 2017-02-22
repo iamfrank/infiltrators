@@ -1,14 +1,18 @@
 # Infiltrators - Game rules
 
-INFILTRATORS is a tactical game where 1 player plays the defender and 1 or more players control individual infiltrators trying to accomplish missions on the defender's territory. 
+INFILTRATORS is a tactical game where 1 player plays the guard and 1 or more players control individual infiltrators trying to accomplish missions on the guard's territory. 
 
 
 ## Setup
 
-1. Set up the board by picking 4 area cards and place them next to each other. Infiltrators and defenders can take turns laying down area cards. 
-2. Players who play as infiltrators pick an infiltrator character card and randomly draw 1 equipment card. if the infiltrator does not have the ability to use the equipment card, discard the first card and pick another random card. Continue until a useable card has been drawn. Then the players pick up the figures that correspond with the character cards.
-3. The defending player picks 4 random guard character cards and 4 random eqipment cards OR draws the guard and equipment cards that are listed for a mission. Then the defending player picks up the figures that correspond to the guard character cards.
-4. The defending player positions the guards' figures on the board. They can be positioned anywhere he/she likes.
+1. Get a table.
+2. Decide who plays the guard and who plays the infiltrator(s). Only 1 player can play the guard.
+3. Set up the board by picking 4 board segments and place them next to each other. Infiltrator and guard players take turns laying down area cards, starting with the guard player.
+4. Infiltrator players pick one infiltrator character card and randomly draw 3 equipment cards. Players discard the least useful equipment card and lay the character card and equipment cards face up on the table. Players pick the character figure that corresponds to the character card.
+5. The guard player picks a number of guard character cards. The number of guard character cards is the amount of infiltrator players times 3. Then the guard player picks up the figures that correspond to the guard character cards.
+6. The guard player positions the guards' figures on the board. They can be positioned anywhere on the 4 board segments unless the mission rules state otherwise.
+7. Agree which direction on the game board is "fictional north" and mark it with the compass rose tile in a place where everyone can see it.
+8. Shuffle the random movement cards and place them facedown on the table.
 
 
 ## Planning phase
@@ -105,7 +109,4 @@ Noise dice can be removed again from the character under the following circumsta
 
 ## Game end
 
-If the infiltrators accomplish the mission - usually taking out a key guard - the infiltrators win.
-
-The defender will try to keep the infiltrators from accomplishing their mission - usually by taking them out.
-If all infiltrators are taken out or the mission cannot be finished, the defender wins.
+The game ends when all infiltrators have left the board or have been incapacitated. Infiltrators and defenders tally points according to the mission objectives. Whoever has the most points win.
